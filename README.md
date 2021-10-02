@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Helputt
 - 👀 I’m interested in Python, Javascript and PHP, mainly.
-- 🌱 I’m currently learning Python by myself, and having classes of html,css and PHP
-- 💞️ I’m looking to collaborate on idk at moment
+- 🌱 I’m currently learning Python by myself. And having classes of html,css and PHP
+- 💞️ At the moment, looking to how improve my coding & codes
 - 📫 To contact me, use my email brunex106@gmail.com ;)
 
 <!---
